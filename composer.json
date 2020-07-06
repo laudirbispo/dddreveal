@@ -3,7 +3,7 @@
     "description": "Um pacote para começar trabalhando com DDD, EventSource, CQRS e Arquitetura Hexagonal ",
     "keywords": ["DDD", "Hexagonal Architeture", "OOP", "CQRS", "EventSouce", "Command"],
     "type": "library",
-	"version": "1.0.1",
+	"version": "1.0.2",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,6 @@
     "require" : {
         "php": "^7.4",
         "laudirbispo/classname" : "1.2.*",
-        "jms/serializer" : "3.6.*"
     },
     "autoload": {
         "psr-4": {"laudirbispo\\DDDReveal\\": "src"}
