@@ -14,7 +14,7 @@
     ],
     "require" : {
         "php": "^7.4",
-        "laudirbispo/classname" : "1.2.*",
+        "laudirbispo/classname" : "1.2.*"
     },
     "autoload": {
         "psr-4": {"laudirbispo\\DDDReveal\\": "src"}
