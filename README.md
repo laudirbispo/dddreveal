@@ -1,7 +1,10 @@
 # DDDReveal
 
 ## Install
-composer require laudirbispo/dddreveal
+
+```bash
+$ composer require laudirbispo/dddreveal
+```
 
 This package provides base classes to implement Domain Driven Design.
 
